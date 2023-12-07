@@ -11,3 +11,8 @@ And it's an amazing playground for a hands-on learning experience with electroni
 - MOSFET
 - Flyback Diode
 
+# ToDos
+
+- control current into electromagnet via Arduino
+- read and display output of phototransistor with Arduino
+- determine sensor range
